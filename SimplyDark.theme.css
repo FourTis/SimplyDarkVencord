@@ -27,5 +27,5 @@
 	--avatar-shape: 0%; /* The shape of avatars | MUST END IN % | Default: 0% */
 	--server-shape: 0%; /* The shape of server avatars | MUST END IN % | Default: 0% */
 
-	--font: 'Roboto'; /* Custom font */
+	--font: 'Inter'; /* Custom font */
 }
